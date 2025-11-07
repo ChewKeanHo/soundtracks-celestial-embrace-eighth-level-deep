@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Celestial Embrace - Eighth Level Deep | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Here is another round of loving and peaceful embrace. The more the iteration
+the better the pool of choices.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #chillout #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/08_Celestial-Embrace-Eighth-Level-Deep.mp3
+  Size: 5953536         Blocks: 11632      IO Block: 4096   regular file
+Access: 2025-11-07 12:20:24.843603209 +0800
+Modify: 2025-11-07 12:19:24.879318586 +0800
+Change: 2025-11-07 12:19:24.883318605 +0800
+ Birth: 2025-07-20 11:53:33.846221347 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-10
+On YouTube since : 2025-11-29
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=J9NOS1H7QMY)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Celestial Embrace - Eighth Level Deep
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-celestial-embrace-eighth-level-deep
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
